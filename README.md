@@ -1,5 +1,5 @@
 # kubernetes-minimal-example
-This repo contains a job template and script to populate simple jobs among Kubernetes worker nodes.
+This repo contains a job template and script to populate simple jobs among Kubernetes worker nodes. Each job computes the first 1000 + $JOB_ID digits of pi.
 
 ## Instructions
 
